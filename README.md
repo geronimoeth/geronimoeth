@@ -19,11 +19,6 @@ const anmol = {
         },
         databases: ["Mongo", "PostgreSQL"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    aboutMe: "Im nineteen years old, I do music in my spare time, I love teaching and I would like to develop the ability to negotiate"
 };
 ```
-<div align='center'>
-<img src="https://i.pinimg.com/originals/2f/a4/45/2fa445518c71efcd57285904283137fc.gif" width="100"> <em><b>I love to teaching!</b> so if you want to learn some code <b>I'll be happy to help you!</b> 😊</em>
-</div>   
- 
