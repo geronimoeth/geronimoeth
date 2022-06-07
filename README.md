@@ -23,5 +23,7 @@ const anmol = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
-<img src="https://assets-animated.rbl.ms/7285464/980x.gif" width="60"> <em><b>I love to teaching!</b> so if you want to learn something <b>hi, I'll be happy to help you!</b> 😊</em>
+<div align='center'>
+<img src="https://i.pinimg.com/originals/2f/a4/45/2fa445518c71efcd57285904283137fc.gif" width="60"> <em><b>I love to teaching!</b> so if you want to learn something <b>hi, I'll be happy to help you!</b> 😊</em>
+</div>   
+ 
