@@ -1,5 +1,7 @@
-<h2><img src="https://octodex.github.com/images/Professortocat_v2.png" width="150"/> Hello I'm Geronimo Suarez!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+<h2> Hello I'm Geronimo Suarez!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
+<img src="https://octodex.github.com/images/Professortocat_v2.png" width="150"/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
