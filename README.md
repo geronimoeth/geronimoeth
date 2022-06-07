@@ -1,5 +1,5 @@
 <div align='center'>
-<h2> Hello I'm Geronimo Suarez! <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/></h2>
+<h2> Hello I'm Geronimo Suarez! <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="30"/></h2>
 </div>
 <img align='right' src="https://octodex.github.com/images/Professortocat_v2.png" width="230"/>
 
