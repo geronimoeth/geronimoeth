@@ -3,7 +3,7 @@
 </div>
 <img align='right' src="https://octodex.github.com/images/Professortocat_v2.png" width="230"/>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...  
 
 ```javascript
 const anmol = {
@@ -12,13 +12,13 @@ const anmol = {
     askMeAbout: ["web dev", "tech", "app dev", "music"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express"]
         },
         mobileApp: {
             iOS & Android: ["React Native"]
         },
         databases: ["Mongo", "PostgreSQL"],
     },
-    aboutMe: "Im nineteen years old, I do music in my spare time, I love teaching and I would like to develop the ability to negotiate"
+    personalField: "Im nineteen years old, I do music in my spare time, I love teaching and I would like to develop the ability to negotiate"
 };
 ```
